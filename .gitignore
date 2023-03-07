@@ -1,0 +1,10 @@
+#Arquivos ignorados
+
+*.classpath
+*.project
+
+#Diretorios ignorados
+
+log/
+/.settings
+/bin
